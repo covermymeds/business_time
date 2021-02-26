@@ -19,7 +19,7 @@ GEM
     mocha (0.13.3)
       metaclass (~> 0.0.1)
     multi_json (1.7.2)
-    rake (10.0.4)
+    rake (13.0.3)
     rdoc (4.0.0)
       json (~> 1.4)
     shoulda (3.4.0)
